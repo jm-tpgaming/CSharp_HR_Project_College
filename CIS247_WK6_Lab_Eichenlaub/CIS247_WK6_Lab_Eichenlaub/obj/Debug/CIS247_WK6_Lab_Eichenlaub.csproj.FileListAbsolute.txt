@@ -1,0 +1,6 @@
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\bin\Debug\CIS247_WK6_Lab_Eichenlaub.exe.config
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\bin\Debug\CIS247_WK6_Lab_Eichenlaub.exe
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\bin\Debug\CIS247_WK6_Lab_Eichenlaub.pdb
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\obj\Debug\CIS247_WK6_Lab_Eichenlaub.csprojResolveAssemblyReference.cache
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\obj\Debug\CIS247_WK6_Lab_Eichenlaub.exe
+C:\Users\Ike\Desktop\DeVry Classes\CIS-247B\CIS247_WK6_Lab_Eichenlaub\CIS247_WK6_Lab_Eichenlaub\obj\Debug\CIS247_WK6_Lab_Eichenlaub.pdb
